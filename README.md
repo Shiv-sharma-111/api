@@ -12,7 +12,7 @@ There are two ways to start using this API:
 
 - [**Download a zipped version of this repository**](https://github.com/Shiv-sharma-111/api/archive/master.zip)
 
-- **Clone the repository with git** by running the following command:
+- **Clone & run the repository with git** by running the following command:
   ```bash
   git clone https://github.com/Shiv-sharma-111/api.git
   cd api
